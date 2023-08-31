@@ -1,0 +1,15 @@
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba01.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba02.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba03.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba04.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba05.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba06.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba07.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba08.1.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba08.2.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba08.3.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba09.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba10.1.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/laba10.2.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

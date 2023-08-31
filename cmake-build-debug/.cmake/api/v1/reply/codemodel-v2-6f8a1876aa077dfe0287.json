@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BasicsOfProgramming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "laba01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba01-Debug-3d95b90871671a0b407e.json",
+					"name" : "laba01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba02-Debug-05bf3b5e2afb08a6ff3f.json",
+					"name" : "laba02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba03-Debug-d49f1ac638c8c7275be1.json",
+					"name" : "laba03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba04-Debug-f3a75512c3213f8f1cb4.json",
+					"name" : "laba04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba05-Debug-1fc336d2cb998d635095.json",
+					"name" : "laba05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba06-Debug-e3556e4965f7cb2f919d.json",
+					"name" : "laba06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba07-Debug-f3d8fc79da3312cbe498.json",
+					"name" : "laba07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba08.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba08.1-Debug-80e05eaf6645440be091.json",
+					"name" : "laba08.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba08.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba08.2-Debug-0ec69f26ca9f83ae1af3.json",
+					"name" : "laba08.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba08.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba08.3-Debug-ba2d19e19d1bbf9f6574.json",
+					"name" : "laba08.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba09::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba09-Debug-ff2875a00129b95a1637.json",
+					"name" : "laba09",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba10.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba10.1-Debug-ed787547622e39ac6189.json",
+					"name" : "laba10.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laba10.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laba10.2-Debug-e885cb7492d3065ab93e.json",
+					"name" : "laba10.2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/rg_marina/CLionProjects/University/BasicsOfProgramming/cmake-build-debug",
+		"source" : "/Users/rg_marina/CLionProjects/University/BasicsOfProgramming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
